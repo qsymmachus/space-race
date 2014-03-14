@@ -6,3 +6,5 @@ A game for fans of button-mashing and Cold War kitsch. Anyone is welcome to cont
  * All game logic is found in application.js
  * If you want to change the graphics, look through style.css and the /images directory.
  * .wav files are for awesome sound effects
+ 
+<img src="http://i.imgur.com/1uHHnXu.gif">
